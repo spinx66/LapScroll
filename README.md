@@ -84,7 +84,9 @@ If you encounter an issue, please open an issue describing:
 
 ## License
 
-This project is licensed under the MIT License.
+Copyright (c) 2026 Spinx. All Rights Reserved.
+
+This software and its source code may not be copied, modified, redistributed, reverse engineered, or used without explicit written permission from the copyright holder.
 
 ---
 
